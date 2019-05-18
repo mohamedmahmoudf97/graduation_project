@@ -1,0 +1,1 @@
+            <input aria-label="Search" placeholder="search" class="border rounded py-2 px-5  bg-dark text-light " dir="rtl" type="text" onkeyup="searchmatches(this.value); newssearch(this.value); teamssearch(this.value)">

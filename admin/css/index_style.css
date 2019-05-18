@@ -1,0 +1,34 @@
+a{
+	text-decoration: none !important;
+	color:  #FFF ;
+	transition: .5s;
+}
+a:hover{
+	color: #FFF;
+}
+/*navbar link and icon custome */
+.navbar-light .navbar-nav .nav-link:focus , .navbar-light .navbar-nav .nav-link{
+	font-weight: 400;
+	color: rgba(218, 138, 37, 1);
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 1);
+	background-color: rgba(218, 138, 37, 1);
+	border-radius: 3px;
+	transition: .5s;
+}
+.i_index{
+	transition: .5s;
+}
+.i_index:hover{
+	transform: scale(1.2,1.2);
+}
+
+body{
+    font-family: 'Tajawal', sans-serif;
+
+}
+.tbl-img{
+    height: 250px;
+    width: 2500px;
+}
